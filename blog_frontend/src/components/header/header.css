@@ -1,0 +1,27 @@
+.header {
+  margin-top: 5px;
+}
+
+.headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;  color: #444;
+}
+
+.headerTitleSm {
+  position: sticky;
+  top: 18%;
+  font-size: 20px;
+}
+
+.headerTitleLg {
+  position: sticky;
+  top: 20%;
+  font-size: 100px;
+}
+
+.headerImg{
+    width: 100%;
+    height: 650px;
+ }
